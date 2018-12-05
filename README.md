@@ -56,7 +56,7 @@ For this project, you'll be building a portfolio website. You will be provided a
     - HTML Formatting Rules
 
         - [x] All code ( HTML element names, attributes, attribute values) is lowercase (except text/CDATA).
-        - [x] Code does not have trailing white spaces.
+        - [ ] Code does not have trailing white spaces.
         - [x] Indentation is consistent (either all tabs or all 2 spaces or all 4 spaces etc).
         - [x] Code uses a new line for every block, list or table element and indent every such child element (it's acceptable to put all `<li>` elements in one line).
         - [x] [Optional] When quoting attribute values, code uses double quotation marks.
