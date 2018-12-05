@@ -13,8 +13,8 @@
     border-bottom: solid 5px #7d97ad;
 }
 .logo {
-    height: 8%;
-    width: 8%;
+    height: 9%;
+    width: 9%;
 }
 .title {
     text-align: end;
@@ -22,7 +22,7 @@
 }
 .name {
     font-weight: 100;
-    font-size: 5em;
+    font-size: 4em;
 }
 .position {
     font-weight: 300;
@@ -65,20 +65,18 @@
     text-align: center;
     color: #2d3c49;
 }
-.item {
-    /* height: 300px; */
-    /* width: 300px; */
-}
 .item-img {
+    display: block;
+    margin: auto;
     height: 200px;
-    width: 300px
 }
 .item-name {
     font-size: 2em;
     font-weight: 400;
 }
 .item-link {
-    font-size: 1.3em;
+    font-size: 1.1em;
     font-weight: 200;
+    display: block;
 }
 
